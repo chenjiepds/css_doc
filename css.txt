@@ -1,7 +1,5 @@
 前端布局基础概述
 
-2018-03-26 前端大全
-（点击上方公众号，可快速关注）
 
 本文来自（作者蔡剑涛）的投稿
 https://mp.weixin.qq.com/s/-LcNZWFFty2lWuND6uuNNA
